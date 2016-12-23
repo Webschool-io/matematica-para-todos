@@ -14,6 +14,11 @@ O primeiro que sempre me vem a cabeça é: a **tipagem forte**.
 
 Essa criança já assimilou, de forma empírica, o conceito de tipos.
 
+> Quantos tipos você vê abaixo?
+
+![](http://gepettobrinquedos.com.br/loja/wp-content/uploads/2013/01/encaixe_form-geo.jpg)
+
+
 Mas se isso não lhe convenceu, analise a sequência abaixo:
 
 
