@@ -8,7 +8,7 @@ O primeiro que sempre me vem a cabeça é: a **tipagem forte**.
 
 > Ué Suissa você não usa JS?
 
-> - **Uso, mas curto tipos também. Obrigado programação funcional.
+> - **Uso, mas curto tipos também. Obrigado programação funcional.**
 
 ![casinha geométrica](http://www.eunascinoviladaserra.com.br/wp-content/uploads/2014/08/brinquedo-5.jpg)
 
