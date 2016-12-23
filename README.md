@@ -100,3 +100,15 @@ Vale a pena conferir! Minha dica é: Wayne's Wolrd
 Desenvolver, **visualmente**, alguma das formas mostradas no vídeo, precisando **obrigatoriamente** implementar a soma e o quadrado.
 
 **Você poderá fazer com qualquer framework ou biblioteca de JS, ou até sem JS nenhum!**
+
+As seguintes operações são bônus:
+
+- subtração
+- multiplicação
+- divisão
+- **raiz quadrada**
+
+
+> E aí? Topa o desafio?
+
+![](http://weknowmemes.com/generator/uploads/generated/g1352217865361546904.jpg)
