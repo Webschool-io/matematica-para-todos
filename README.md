@@ -98,7 +98,9 @@ O interessante de utilizar-se a programação é porque ela ao mesmo tempo que �
 
 Não entrarei nesse assunto aqui, mas levo esse mesmo conceito para explicar programação para qualquer um.
 
-> **Agora quero SUA atenção!** Você que desejas contribuir na educação de qualquer pessoa, esta é sua oportunidade de contribuir com a comunidade Open Source e ainda fomentar uma educaçao autodidata a qual é o cerne da Webschool.
+> **Agora quero SUA atenção!** 
+> 
+> Você que desejas contribuir na educação de qualquer pessoa, esta é sua oportunidade de contribuir com a comunidade Open Source e ainda fomentar uma educaçao autodidata a qual é o cerne da Webschool.
 
 ## Ideia
 
