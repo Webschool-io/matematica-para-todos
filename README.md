@@ -4,7 +4,7 @@ Eu, Suissa, sempre falei e acredito que podemos ensinar matemática para qualque
 
 ![](http://vignette3.wikia.nocookie.net/meme/images/b/b6/Y_wat_2.jpg/revision/latest?cb=20150614223422)
 
-O primeiro que sempre me vem a cabeça é: a tipagem forte.
+O primeiro que sempre me vem a cabeça é: a **tipagem forte**.
 
 > Ué Suissa você não usa JS?
 
@@ -12,9 +12,9 @@ O primeiro que sempre me vem a cabeça é: a tipagem forte.
 
 ![casinha geométrica](http://www.eunascinoviladaserra.com.br/wp-content/uploads/2014/08/brinquedo-5.jpg)
 
-Essa criança, de forma empírica, já assimilou o conceito de tipos.
+Essa criança já assimilou, de forma empírica, o conceito de tipos.
 
-Mas se isso não lhe convenceu analise a sequência abaixo:
+Mas se isso não lhe convenceu, analise a sequência abaixo:
 
 
 ``` 
@@ -45,7 +45,7 @@ __________
  5 
 ``` 
 
-> O que você acha que isso significará para uma criança? Que problema está resolvendo?
+> O que você acha que isso significará para uma criança? Que problema está sendo resolvido? Isso muito abstrato,.
 
 Agora vamos utilizar alguns tipos para dar sentido aos cálculos:
 
@@ -79,17 +79,24 @@ __________
 
 > **- O que você achou agora?**
 
-E hoje estava curtindo umas palestras do TED quando me deparei com essa palestra: [Math isn't hard, it's a language](https://youtu.be/3icoSeGqQtY?t=4m39s) 
+E hoje estava curtindo umas palestras do TED quando me deparei com essa: [Math isn't hard, it's a language](https://youtu.be/3icoSeGqQtY?t=4m39s) 
 
 
-Porém sempre pensei em iniciar o ensino das operações mostrando-as de forma visual e até já demonstrei algumas vezes aqui em casa. Pois para mim é muito mais lógico, para alguém que não possua nenhum pré-conhecimento matemático, que a pessoa visualize o problema para o solucionar.
+Porém sempre pensei em iniciar o ensino das operações mostrando-as de forma visual e até já demonstrei algumas vezes aqui em casa. Pois para mim é muito mais lógico, para alguém que não possua nenhum pré-conhecimento matemático, que a pessoa visualize o problema a ser solucionado.
 
 Logo depois veio essa
 [How you can be good at math, and other surprising facts about learning | Jo Boaler | TEDxStanford](https://www.youtube.com/watch?v=3icoSeGqQtY) que para meu espanto corroborou o que eu sempre falava. 
 
-> Agora quero a atenção de você! Que deseja contribuir na educação de qualquer pessoa, gostaria da sua ajuda, confira a ideia abaixo.
-
+> Agora quero SUA atenção! Você que desejas contribuir na educação de qualquer pessoa, esta é sua oportunidade de contribuir com a comunidade Open Source e ainda fomentar uma educaçao autodidata a qual é o cerne da Webschool.
 
 ## Ideia
 
-Quando você chegar em [4m39s da última palestra](https://www.youtube.com/watch?v=3icoSeGqQtY&feature=youtu.be&t=4m39s)
+Quando você chegar em [4m39s da última palestra](https://www.youtube.com/watch?v=3icoSeGqQtY&feature=youtu.be&t=4m39s) ela irá mostrar diversas formas visuais de demonstrar algumas operações. 
+
+Vale a pena conferir! Minha dica é: Wayne's Wolrd
+
+### Desafio
+
+Desenvolver, **visualmente**, alguma das formas mostradas no vídeo, precisando **obrigatoriamente** implementar a soma e o quadrado.
+
+**Você poderá fazer com qualquer framework ou biblioteca de JS, ou até sem JS nenhum!**
