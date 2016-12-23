@@ -124,4 +124,6 @@ As seguintes operações são bônus:
 
 > E aí? Topa o desafio?
 
+*ps: um site muito bom para visualizar códigos rodando é [http://www.pythontutor.com/](http://www.pythontutor.com/)*
+
 ![](http://weknowmemes.com/generator/uploads/generated/g1352217865361546904.jpg)
