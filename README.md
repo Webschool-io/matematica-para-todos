@@ -124,6 +124,82 @@ As seguintes operações são bônus:
 
 > E aí? Topa o desafio?
 
-*ps: um site muito bom para visualizar códigos rodando é [http://www.pythontutor.com/](http://www.pythontutor.com/)*
+*ps: um site muito bom para visualizar códigos rodando é [http://www.pythontutor.com/](http://www.pythontutor.com/)*. Além disso você pode conferir alguns tipos do JS [aqui](http://www.pythontutor.com/visualize.html#code=var%20intNum%20%3D%2042%3B%0Avar%20floatNum%20%3D%203.14159%3B%0Avar%20nanNum%20%3D%20NaN%3B%0Avar%20infNum%20%3D%20Infinity%3B%0Avar%20ninfNum%20%3D%20-Infinity%3B%0A%0Avar%20str%20%3D%20%22hello%20world%22%3B%0A%0Avar%20boolTrue%20%3D%20true%3B%0Avar%20boolFalse%20%3D%20false%3B%0A%0Avar%20nullVal%20%3D%20null%3B%0Avar%20undefVal%20%3D%20undefined%3B%0A%0Avar%20lst%20%3D%20%5B'a',%20'b',%203,%204,%205,%20'f'%5D%3B%0A%0Avar%20obj%20%3D%20%7Bname%3A%20'John',%20age%3A%2035,%20hasChildren%3A%20true%7D%3B%0A%0Avar%20i%20%3D%205%3B%0Avar%20obj_lst%20%3D%20%5Bi,%20%7Bfoo%3A%20i%2B1,%20poop%3A%20%5B1,%202,%203%5D%7D,%20%7Bbar%3A%20i%2B2%7D%5D%3B%0A%0Aobj.name%20%3D%20'Jane'%3B&cumulative=false&curInstr=14&heapPrimitives=false&mode=display&origin=opt-frontend.js&py=js&rawInputLstJSON=%5B%5D&textReferences=false).
 
 ![](http://weknowmemes.com/generator/uploads/generated/g1352217865361546904.jpg)
+
+## Regra de 3
+
+> **Ensinarei-te uma técnica que percebi que calcula automaticamente usando apenas proporções!**
+
+
+Imagine um casal com 4 gatos, os quais comem 25mˆ3 de raçao em 30 dias. Porém eles adotaram mais 1 gatinho que come o mesmo tanto que os outros! 
+
+Vamos calcular quanto os 5 gatos irao comer em 5 dias.
+
+```
+4 gatos = 25mˆ3 = 30 dias
+
+5 gatos =   x   = 5 dias
+```
+
+Uma dica que sempre dou é:
+
+> Visulize o que o problema pede como resultado. `5 dias`
+
+Entao em vez de começar calculando o quanto 5 gatos comem vamos começar pelo final, precisamos calcular qual a proporçao entre: 30 dias e 5 dias.
+
+No caso é: `6` 
+
+> Por que fizemos isso?
+>
+> -**Pense comigo!**
+
+Se a proporcao é 6, vamos calcular a proporçao da comida:
+
+```
+25 / 6 = 4.16
+```
+
+Com isso sabemos que 4 gatos comem 4.16m^3 de raçao em 5 dias e agora?? Precisamos calcular isso para 5 gatos, eu prefiro fazer assim:
+
+> -**Calculo quanto 1 gato come e depois somo esse valor ao 4.16, veja comigo:**
+
+
+```
+4.16 / 4 = 1.04
+4.16 + 1.04 = 5.20
+```
+
+Logo nosso resultado é: 
+
+> Os 5 gatos comem 5.2mˆ3 em 5 dias.
+
+Eu ainda nao ensinarei como resolver por Regra de 3 Composta pois eu acho essa forma muito mais simples, entao vamos criar uma fórmula para isso.
+
+```
+
+```
+
+
+
+### Exercício
+
+
+Imagine um casal com 4 gatos, os quais comem 25mˆ3 de raçao em 30 dias. Porém eles adotaram mais 1 gatinho que come o mesmo tanto que os outros! 
+
+Vamos calcular quanto os 5 gatos irao comer em 1 semana.
+
+```
+4 gatos = 25mˆ3 = 30 dias
+
+5 gatos =   x   = 5 dias
+
+```
+
+
+
+
+
+
+
